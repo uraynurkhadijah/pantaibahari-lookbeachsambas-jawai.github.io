@@ -1,0 +1,29 @@
+.warna-bg{
+    background: linear-gradient(to right, rgba(229, 91, 144, 0.781),
+     rgba(54, 145, 220, 0.808));
+   
+}
+.warna-bg-pr{
+    background: linear-gradient(to right, rgba(243, 221, 124, 0.699),
+    rgba(253, 121, 111, 0.685));
+}
+.bg-card{
+    background: linear-gradient(to right, rgba(41, 248, 151, 0.596),
+    rgba(250, 177, 172, 0.685));
+}
+.jumbotron-bg{
+    background-size: cover;
+    background: url(../img/pantai2.jpeg);
+    background-size: cover;
+    height: 20%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.bg{
+    background: linear-gradient(to right, rgba(180, 250, 217, 0.596),
+    rgba(197, 156, 194, 0.685));
+}
+.bg2{
+    background: linear-gradient(to right, rgba(22, 189, 111, 0.596),
+    rgba(255, 177, 201, 0.685));
+}
